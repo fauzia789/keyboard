@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: rgb(182, 182, 182);
+    width: 1095px;
+    height: 340px;
+    border-radius: 8px;
+    margin: 110px auto;
+    padding: 3px;
+}
+.first-line>div{
+    float: left;
+    width:45px;
+    height: 20px;
+    font-size: 13px;
+    margin-top: 20px;
+    border-radius: 3px;
+    background-color: rgb(241, 233, 233);
+    color: rgb(0, 0, 0);
+    margin: 5px;
+    text-align: center;
+    box-shadow: 5px 5px rgba(83, 83, 83, 0.534);
+}
+.clear-div{
+    clear: both;
+}
+.second-line>div{
+    float: left;
+    width:49px;
+    height: 45px;
+    margin-top: 20px;
+    margin: 20px 2px 0 5px;
+    padding-top: 15px;
+    border-radius: 3px;
+    background-color: rgb(241, 233, 233);
+    color: rgb(0, 0, 0);
+    margin: 5px;
+    text-align: center;
+    box-shadow: 5px 5px rgba(83, 83, 83, 0.534);
+}
+.clear-div{
+    clear: both;
+}
+.third-line>div{
+    float: left;
+    width:49px;
+    height: 45px;
+    margin-top: 20px;
+    margin: 20px 2px 0 5px;
+    padding-top: 15px;
+    border-radius: 3px;
+    background-color: rgb(241, 233, 233);
+    color: rgb(0, 0, 0);
+    margin: 5px;
+    text-align: center;
+    box-shadow: 5px 5px rgba(83, 83, 83, 0.534);
+}
+.clear-div{
+    clear: both;
+}
+.fourth-line>div{
+    float: left;
+    width:49px;
+    height: 45px;
+    margin-top: 20px;
+    margin: 20px 2px 0 5px;
+    padding-top: 15px;
+    border-radius: 3px;
+    background-color: rgb(241, 233, 233);
+    color: rgb(0, 0, 0);
+    margin: 5px;
+    text-align: center;
+    box-shadow: 5px 5px rgba(83, 83, 83, 0.534);
+}
+.clear-div{
+    clear: both;
+}
+.fifth-line>div{
+    float: left;
+    width:49px;
+    height: 45px;
+    margin-top: 20px;
+    margin: 20px 2px 0 5px;
+    padding-top: 15px;
+    border-radius: 3px;
+    background-color: rgb(241, 233, 233);
+    color: rgb(0, 0, 0);
+    margin: 5px;
+    text-align: center;
+    box-shadow: 5px 5px rgba(83, 83, 83, 0.534);
+}
+.clear-div{
+    clear: both;
+}
+.fifth-line>div{
+    float: left;
+    width:49px;
+    height: 45px;
+    margin-top: 20px;
+    margin: 20px 2px 0 5px;
+    padding-top: 15px;
+    border-radius: 3px;
+    background-color: rgb(241, 233, 233);
+    color: rgb(0, 0, 0);
+    margin: 5px;
+    text-align: center;
+    box-shadow: 5px 5px rgba(83, 83, 83, 0.534);
+}
+.clear-div{
+    clear: both;
+}
+.sixth-line>div{
+    float: left;
+    width:49px;
+    height: 45px;
+    margin-top: 20px;
+    margin: 20px 2px 0 5px;
+    padding-top: 15px;
+    border-radius: 3px;
+    background-color: rgb(241, 233, 233);
+    color: rgb(0, 0, 0);
+    margin: 5px;
+    text-align: center;
+    box-shadow: 5px 5px rgba(83, 83, 83, 0.534);
+}
+.clear-div{
+    clear: both;
+}
